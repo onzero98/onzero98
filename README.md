@@ -19,4 +19,4 @@ Node.js, MySQL, AWS, Git, Linux 등을 사용하여 프로젝트를 설계, 개�
 
 # 📁 Portfolio
 
-https://desert-lint-21d.notion.site/4b03c2fe7c6c4caeb7060c358c5eadc0?pvs=4
+https://desert-lint-21d.notion.site/bb236281db9b414cbecf25603a75ee89?pvs=4
